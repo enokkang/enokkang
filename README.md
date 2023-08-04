@@ -4,7 +4,7 @@
 
 <h2 align="center">Hello there! My name is Enoch Kang.👋</h2>
 <p align="center">I'm an Information Technology Specialist in U.S. Military Entrance Processing Command (MEPCOM).</p>
-<p align="center">I'm currently enrolled in Actualize Coding Bootcamp. :student:
+<p align="center">The Future Full-Stack Developer! I'm currently enrolled in Actualize Coding Bootcamp. :student:
 </p>
 <p align="center"><a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/enoch--kang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/enoch_kang/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
