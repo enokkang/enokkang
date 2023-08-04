@@ -1,3 +1,5 @@
+![alt text](banner.gif)
+
 ### Hi there 👋
 
 <!--
